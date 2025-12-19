@@ -1,0 +1,5 @@
+{
+  "name": "QR Generator",
+  "description": "URLとタイトルを入力してQRコードを即座に作成・保存できるReactアプリケーション",
+  "requestFramePermissions": []
+}
